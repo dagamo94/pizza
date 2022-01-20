@@ -10,4 +10,4 @@ Sample list:
 
 ## Inspiration
 Sample quote:
-> Inspiration drawn from [Link](unsplash.com)
+> Inspiration drawn from [Unsplash](https://unsplash.com)
