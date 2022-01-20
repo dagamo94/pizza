@@ -4,9 +4,9 @@ A sample project to practice creating, uploading, and commiting changes to an on
 
 ## About
 Sample list:
-*List Item 1
-*List Item 2
-*List Item 3
+* List Item 1
+* List Item 2
+* List Item 3
 
 ## Inspiration
 Sample quote:
